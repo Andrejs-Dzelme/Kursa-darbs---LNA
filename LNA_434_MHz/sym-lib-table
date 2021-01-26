@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LNA_434_MHz-rescue)(type Legacy)(uri ${KIPRJMOD}/LNA_434_MHz-rescue.lib)(options "")(descr ""))
+)
